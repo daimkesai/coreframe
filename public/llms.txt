@@ -1,0 +1,31 @@
+# Coreframe.one — Digital Infrastructure for Local Impact
+
+## About
+Coreframe is a digital agency based in Hamburg, Germany, specializing in building high-performance websites, AI-powered visibility solutions, and intelligent automation for local businesses.
+
+## Services
+- Web Design & Development: High-converting, mobile-first websites built with modern frameworks (Next.js, React). Accessible, fast, and designed to impress. 99.9% uptime guaranteed.
+- Local SEO: Search engine optimization focused on local rankings. We optimize content, structure, and authority for Google, Maps, and local search.
+- GEO (Generative Engine Optimization): Making businesses visible to AI systems like ChatGPT, Perplexity, Google AI Overviews, and Claude. We structure content so AI can recommend our clients.
+- AI Automation: Intelligent call bots, SMS bots, and WhatsApp automation that handle customer inquiries, book appointments, and follow up on leads 24/7.
+- Google My Business: Complete setup and optimization of Google Business Profiles, Maps presence, and review management strategy.
+- Digital Partnership: Ongoing optimization, support, and strategic consultations. Not a one-time vendor — a long-term growth partner.
+
+## Location
+Hamburg, Germany
+Serving local businesses across Germany
+
+## Contact
+Website: https://coreframe.one
+Languages: English, German
+
+## Key Facts
+- 420+ local businesses connected
+- 4.9 average Google rating
+- 124% average traffic increase for clients
+- AI-visible and optimized for generative search
+- 24/7 bot automation available
+
+## Content Structure
+- Homepage: Single-page landing with sections for Hero, Value Proposition, Problem Statement, Services (Bento Grid), Case Studies, How It Works (3-step process), FAQ (6 questions), and Call-to-Action
+- Available in English (/en) and German (/de)

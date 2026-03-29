@@ -1,0 +1,245 @@
+{
+  "metadata": {
+    "title": "Coreframe.one — Digitale Infrastruktur mit lokalem Impact",
+    "description": "Coreframe.one ist eine Digitalagentur, spezialisiert auf Webdesign und KI-gestützte Sichtbarkeit für lokale Unternehmen. Wir bauen moderne Websites, optimieren für KI-Suche und setzen intelligente Automatisierung ein."
+  },
+  "nav": {
+    "services": "Leistungen",
+    "howItWorks": "So funktioniert's",
+    "about": "Über uns",
+    "caseStudies": "Referenzen",
+    "cta": "Kostenloses 30-Minuten-Gespräch"
+  },
+  "hero": {
+    "label": "Der digitale Architekt",
+    "headlinePre": "Jedes",
+    "headlineGreen": "lokale Unternehmen",
+    "headlinePost": "verdient,",
+    "headlineEnd": "gefunden zu werden.",
+    "subheadline": "Wir bauen Ihre Online-Präsenz, damit Kunden Sie finden — nicht Ihre Konkurrenz.",
+    "ctaPrimary": "Kostenloses 30-Minuten-Gespräch",
+    "pins": [
+      {
+        "line1a": "Gefunden auf",
+        "line1b": "ChatGPT",
+        "line2": "\"bester Mechaniker in der Nähe\""
+      },
+      {
+        "line1a": "Platz #4",
+        "line1b": "auf Google",
+        "line2": "4,8/5 ⭐ 128 Bewertungen"
+      },
+      {
+        "line1a": "Vertrauensmarke",
+        "line1b": "vor Ort",
+        "line2": "Enhanced by COREFRAME"
+      }
+    ],
+    "statNumber": "420+",
+    "statLabel": "Lokale Unternehmen vernetzt"
+  },
+  "valueProp": {
+    "label": "Warum Coreframe",
+    "headline": "Gestaltet mit Präzision,",
+    "headlineHighlight": "gewachsen durch Strategie.",
+    "description": "Wir vereinen starkes Design, technische Präzision und KI-gestütztes Wachstum in einer digitalen Partnerschaft.",
+    "cards": [
+      {
+        "title": "Design, das konvertiert",
+        "description": "Websites, die Besucher in Kunden verwandeln. Jedes Pixel dient einem Zweck — Performance, Klarheit und Vertrauen."
+      },
+      {
+        "title": "Sichtbarkeit, die wächst",
+        "description": "SEO, GEO und Google-Maps-Optimierung, die noch Monate nach dem Launch für Sie arbeitet."
+      },
+      {
+        "title": "KI, die nie schläft",
+        "description": "Intelligente Anruf-Bots, SMS-Bots und WhatsApp-Automatisierung, die rund um die Uhr auf Anfragen reagieren — damit Ihnen kein Kunde entgeht."
+      }
+    ]
+  },
+  "problem": {
+    "label": "Die Realität",
+    "headline": "Ihre Konkurrenz ist bereits online.",
+    "quote": "93 % der Kunden suchen online, bevor sie ein lokales Geschäft besuchen. Wenn sie Sie nicht finden, finden sie jemand anderen.",
+    "cards": [
+      {
+        "icon": "ghost",
+        "title": "Unsichtbare Präsenz",
+        "description": "Sie haben eine Website, aber Ihre Kunden finden Sie weder auf Google, noch auf Maps oder in KI-Suchergebnissen."
+      },
+      {
+        "icon": "revenue",
+        "title": "Umsatzverluste",
+        "description": "Langsame Ladezeiten, fehlerhafte mobile Darstellungen und fehlende Handlungsaufforderungen kosten Sie jeden Tag Kunden."
+      },
+      {
+        "icon": "community",
+        "title": "Distanz zur Nachbarschaft",
+        "description": "Ihre Marke wirkt abgekoppelt von der Umgebung. Kunden gehen vorbei, ohne zu wissen, was Sie anbieten."
+      },
+      {
+        "icon": "debt",
+        "title": "Technischer Rückstand",
+        "description": "Veraltete Systeme, zusammengeflickte Tools und keine klare digitale Strategie bremsen Ihr Team aus."
+      }
+    ]
+  },
+  "services": {
+    "label": "Das Architektur-Toolkit",
+    "headline": "Alles, was Sie brauchen, um lokal zu dominieren.",
+    "cards": [
+      {
+        "title": "Webdesign & Entwicklung",
+        "description": "Hochkonvertierende, mobile-first Websites mit modernen Frameworks. Schnell, barrierefrei und beeindruckend gestaltet.",
+        "stat": "99,9 %",
+        "statLabel": "Verfügbarkeit"
+      },
+      {
+        "title": "Lokales SEO",
+        "description": "Ranken Sie höher in lokalen Suchergebnissen. Wir optimieren Ihre Inhalte, Struktur und Autorität für maximale Sichtbarkeit.",
+        "stat": "Top 3",
+        "statLabel": "Lokale Rankings"
+      },
+      {
+        "title": "GEO — KI-Suchsichtbarkeit",
+        "description": "Werden Sie von ChatGPT, Perplexity, Google AI Overviews und Claude empfohlen. Die Zukunft der Suche ist generativ — wir sorgen dafür, dass Sie in der Antwort stehen.",
+        "stat": "Nr. 1",
+        "statLabel": "KI-Empfehlungen"
+      },
+      {
+        "title": "KI-Automatisierung",
+        "description": "Intelligente Anruf-Bots, SMS-Bots und WhatsApp-Automatisierung, die Anfragen bearbeiten, Termine buchen und nachfassen — rund um die Uhr.",
+        "stat": "93 %",
+        "statLabel": "Anrufe beantwortet"
+      },
+      {
+        "title": "Google My Business",
+        "description": "Komplette Einrichtung und Optimierung Ihres Google-Unternehmensprofils, Ihrer Maps-Präsenz und Review-Strategie.",
+        "stat": "5★",
+        "statLabel": "Durchschnittsbewertung"
+      },
+      {
+        "title": "Digitale Partnerschaft",
+        "description": "Wir bauen und verschwinden nicht. Laufende Optimierung, Support und Strategie — Ihr Wachstum ist unser Wachstum.",
+        "stat": "∞",
+        "statLabel": "Laufender Support"
+      }
+    ]
+  },
+  "caseStudy": {
+    "label": "Bewiesene Ergebnisse",
+    "headline": "Echte Wirkung für echte Unternehmen.",
+    "description": "Wir messen Erfolg an Umsatz, nicht an Eitelkeitskennzahlen. Das haben unsere Partner erreicht.",
+    "stats": [
+      {
+        "value": "124 %",
+        "label": "Traffic-Steigerung"
+      },
+      {
+        "value": "3.200",
+        "label": "Monatliche Interaktionen"
+      },
+      {
+        "value": "420+",
+        "label": "Unternehmen vernetzt"
+      }
+    ],
+    "testimonial": {
+      "quote": "Coreframe hat uns nicht einfach eine Website gebaut — sie haben eine Umsatzmaschine geschaffen. Unsere Buchungen haben sich in drei Monaten verdreifacht.",
+      "author": "Sarah M.",
+      "role": "Restaurantbesitzerin, Hamburg"
+    },
+    "cta": "Unsere Arbeit ansehen"
+  },
+  "howItWorks": {
+    "label": "Der Blueprint-Prozess",
+    "headline": "Vom Fundament zur Skyline — in drei Schritten.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Bestandsaufnahme & Audit",
+        "description": "Wir analysieren Ihre aktuelle digitale Präsenz, Wettbewerber und Chancen. Sie erhalten eine klare Roadmap mit Prioritäten und Zeitplan."
+      },
+      {
+        "number": "02",
+        "title": "Struktureller Aufbau",
+        "description": "Wir gestalten und entwickeln Ihre digitale Infrastruktur — Website, SEO, KI-Integrationen und Automatisierungssysteme."
+      },
+      {
+        "number": "03",
+        "title": "Skyline-Launch & Wachstum",
+        "description": "Wir launchen, optimieren und wachsen gemeinsam. Laufendes Monitoring, Content-Updates und strategische Verfeinerung."
+      }
+    ]
+  },
+  "faq": {
+    "headline": "Fragen? Wir haben Antworten.",
+    "items": [
+      {
+        "question": "Was kostet eine professionelle Website für ein kleines Unternehmen?",
+        "answer": "Unsere Projekte bewegen sich in der Regel zwischen 2.500 € und 8.000 €, abhängig von Umfang und Komplexität. Jedes Projekt umfasst responsives Design, SEO-Optimierung und eine 30-tägige Support-Phase. Wir bieten flexible Zahlungspläne für lokale Unternehmen."
+      },
+      {
+        "question": "Wie lange dauert es, eine Website zu erstellen?",
+        "answer": "Die meisten Projekte gehen innerhalb von 4–6 Wochen nach Projektstart online. Das umfasst Strategie, Design, Entwicklung, Content-Integration und Testing. Beschleunigte Timelines sind für zeitkritische Launches verfügbar."
+      },
+      {
+        "question": "Was ist GEO und warum braucht mein Unternehmen das?",
+        "answer": "GEO steht für Generative Engine Optimization. Es bezeichnet die Praxis, Ihr Unternehmen für KI-Systeme wie ChatGPT, Perplexity, Google AI Overviews und Claude sichtbar zu machen. Da immer mehr Kunden KI nutzen, um lokale Dienstleistungen zu finden, stellt GEO sicher, dass Ihr Unternehmen in KI-generierten Empfehlungen und Antworten erscheint."
+      },
+      {
+        "question": "Wie helfen KI-Chatbots meinem Unternehmen?",
+        "answer": "Unsere KI-Bots bearbeiten Kundenanfragen per Telefon, SMS und WhatsApp rund um die Uhr. Sie beantworten häufige Fragen, buchen Termine und fassen bei Interessenten nach — so entgeht Ihnen kein potenzieller Kunde, auch außerhalb der Geschäftszeiten."
+      },
+      {
+        "question": "Wird mein Unternehmen auf Google Maps angezeigt?",
+        "answer": "Ja. Wir richten Ihr Google-Unternehmensprofil vollständig ein und optimieren es — einschließlich Fotos, Beschreibungen, Kategorien und Bewertungsmanagement. Die meisten unserer Kunden sehen innerhalb von 4–8 Wochen deutliche Verbesserungen bei der Maps-Sichtbarkeit."
+      },
+      {
+        "question": "Bieten Sie auch nach dem Launch laufenden Support an?",
+        "answer": "Selbstverständlich. Wir sind ein Partner, kein Dienstleister auf Abruf. Unsere laufenden Pakete umfassen Performance-Monitoring, Content-Updates, SEO-Verfeinerung und strategische Beratung. Ihr Wachstum ist unser Wachstum — wir bauen und verschwinden nicht."
+      }
+    ]
+  },
+  "cta": {
+    "label": "Bereit zum Bauen?",
+    "headline": "Lassen Sie uns Ihre Ecke der Stadt zum Leuchten bringen.",
+    "subtext": "Buchen Sie ein kostenloses 30-minütiges Strategiegespräch. Kein Pitch, kein Druck — nur ein klarer Plan für Ihr digitales Wachstum.",
+    "button": "Kostenloses 30-Minuten-Gespräch",
+    "calendar": {
+      "title": "Termin buchen",
+      "days": ["MO", "DI", "MI", "DO", "FR", "SA", "SO"],
+      "months": ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"],
+      "selectTime": "Uhrzeit wählen",
+      "slots": ["09:00", "10:00", "11:00", "14:00", "15:00", "16:00"],
+      "confirm": "Termin bestätigen",
+      "confirmed": "Termin bestätigt!",
+      "confirmedSub": "Wir senden Ihnen in Kürze eine Bestätigungsmail.",
+      "back": "Zurück"
+    }
+  },
+  "footer": {
+    "tagline": "Ihr digitaler Partner für lokale Dominanz.",
+    "explore": "Entdecken",
+    "legal": "Rechtliches",
+    "newsletter": {
+      "headline": "Bleiben Sie informiert",
+      "placeholder": "Ihre E-Mail-Adresse",
+      "button": "Abonnieren"
+    },
+    "links": {
+      "services": "Leistungen",
+      "howItWorks": "So funktioniert's",
+      "about": "Über uns",
+      "caseStudies": "Referenzen",
+      "faq": "FAQ"
+    },
+    "legalLinks": {
+      "privacy": "Datenschutz",
+      "terms": "AGB",
+      "imprint": "Impressum"
+    },
+    "copyright": "© {year} Coreframe.one. Alle Rechte vorbehalten."
+  }
+}

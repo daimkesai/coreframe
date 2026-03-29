@@ -1,0 +1,124 @@
+@import "tailwindcss";
+
+@theme {
+  /* ── Colors: Master prompt palette ── */
+  --color-primary: #6BAF47;
+  --color-primary-container: #1B5E3B;
+  --color-accent: #FF5722;
+  --color-secondary-accent: #ff9800;
+  --color-background: #F8FAF7;
+  --color-surface: #F8FAF7;
+  --color-surface-low: #EFF3EC;
+  --color-surface-mid: #E9EDE5;
+  --color-surface-high: #E3E9DF;
+  --color-surface-highest: #D6DDD1;
+  --color-surface-dark: #071e27;
+  --color-on-surface: #071e27;
+  --color-on-dark: #F8FAF7;
+  --color-on-primary: #ffffff;
+  --color-on-accent: #ffffff;
+  --color-outline: #6e7a6e;
+  --color-outline-ghost: rgba(189, 202, 188, 0.15);
+  --color-error: #ba1a1a;
+
+  /* ── Fonts ── */
+  --font-headline: 'Be Vietnam Pro', sans-serif;
+  --font-body: 'Be Vietnam Pro', sans-serif;
+  --font-label: 'Newsreader', serif;
+
+  /* ── Border Radius ── */
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+  --radius-full: 9999px;
+}
+
+/* ── Base styles ── */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--color-on-surface);
+  background-color: var(--color-background);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background-color: var(--color-accent);
+  color: white;
+}
+
+/* ── Glassmorphism utility ── */
+.glass {
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  background: rgba(255, 255, 255, 0.8);
+}
+
+/* ── Ambient shadow utility ── */
+.shadow-ambient {
+  box-shadow: 0 32px 64px -15px rgba(7, 30, 39, 0.06);
+}
+
+.shadow-ambient-lg {
+  box-shadow: 0 32px 64px -15px rgba(7, 30, 39, 0.1);
+}
+
+/* ── Gradient utilities ── */
+.gradient-primary {
+  background: linear-gradient(135deg, var(--color-primary-container) 0%, var(--color-primary) 100%);
+}
+
+.gradient-green {
+  background: linear-gradient(135deg, #1B5E3B 0%, #3A8C52 50%, #6BAF47 100%);
+}
+
+.gradient-green-text {
+  background: linear-gradient(135deg, #1B5E3B 0%, #3A8C52 50%, #6BAF47 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.gradient-orange {
+  background: linear-gradient(135deg, #E64A19 0%, #FF5722 45%, #FF7043 100%);
+}
+
+.gradient-brand-line {
+  background: linear-gradient(90deg, var(--color-primary) 0%, var(--color-primary-container) 40%, var(--color-accent) 75%, var(--color-secondary-accent) 100%);
+}
+
+.gradient-accent {
+  background: linear-gradient(135deg, var(--color-accent), #ff7043);
+}
+
+/* ── Noise texture overlay ── */
+.noise-overlay::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  opacity: 0.03;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* ── Reduced motion ── */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ── Focus visible ── */
+*:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+  border-radius: var(--radius-sm);
+}

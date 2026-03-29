@@ -1,0 +1,245 @@
+{
+  "metadata": {
+    "title": "Coreframe.one — Digital Infrastructure for Local Impact",
+    "description": "Coreframe.one is a digital agency specializing in web design and AI-powered visibility for local businesses. We build modern websites, optimize for AI search, and deploy intelligent automation."
+  },
+  "nav": {
+    "services": "Services",
+    "howItWorks": "How it Works",
+    "about": "About",
+    "caseStudies": "Case Studies",
+    "cta": "Free 30-Minute Call"
+  },
+  "hero": {
+    "label": "The Digital Architect",
+    "headlinePre": "Every",
+    "headlineGreen": "local business",
+    "headlinePost": "deserves to be",
+    "headlineEnd": "found.",
+    "subheadline": "We build your online presence so customers find you — not your competitor.",
+    "ctaPrimary": "Free 30-Minute Call",
+    "pins": [
+      {
+        "line1a": "Found on",
+        "line1b": "ChatGPT",
+        "line2": "\"best mechanic near me\""
+      },
+      {
+        "line1a": "Ranked #4",
+        "line1b": "on Google",
+        "line2": "4.8/5 ⭐ 128 Reviews"
+      },
+      {
+        "line1a": "AI-Trusted",
+        "line1b": "local brand",
+        "line2": "Enhanced by COREFRAME"
+      }
+    ],
+    "statNumber": "420+",
+    "statLabel": "Local businesses connected"
+  },
+  "valueProp": {
+    "label": "Why Coreframe",
+    "headline": "Built by Design,",
+    "headlineHighlight": "Grown by Strategy.",
+    "description": "We combine sharp design, technical precision, and AI-powered growth into one digital partnership.",
+    "cards": [
+      {
+        "title": "Design That Converts",
+        "description": "Websites built to turn visitors into customers. Every pixel serves a purpose — performance, clarity, and trust."
+      },
+      {
+        "title": "Visibility That Compounds",
+        "description": "SEO, GEO, and Google Maps optimization that keeps working for you months after launch."
+      },
+      {
+        "title": "AI That Never Sleeps",
+        "description": "Intelligent call bots, SMS bots, and WhatsApp automation that respond to leads 24/7 — so you never miss a customer."
+      }
+    ]
+  },
+  "problem": {
+    "label": "The Reality",
+    "headline": "Your competitors are already online.",
+    "quote": "93% of customers search online before visiting a local business. If they can't find you, they find someone else.",
+    "cards": [
+      {
+        "icon": "ghost",
+        "title": "Ghost Presence",
+        "description": "You have a website, but your customers can't find you on Google, Maps, or AI search results."
+      },
+      {
+        "icon": "revenue",
+        "title": "Leaking Revenue",
+        "description": "Slow load times, broken mobile layouts, and missing calls-to-action are costing you customers every day."
+      },
+      {
+        "icon": "community",
+        "title": "Community Gap",
+        "description": "Your brand feels disconnected from the neighborhood. Customers walk past without knowing what you offer."
+      },
+      {
+        "icon": "debt",
+        "title": "Technical Debt",
+        "description": "Outdated systems, patched-together tools, and no clear digital strategy slow your team down."
+      }
+    ]
+  },
+  "services": {
+    "label": "The Architectural Toolkit",
+    "headline": "Everything you need to dominate locally.",
+    "cards": [
+      {
+        "title": "Web Design & Development",
+        "description": "High-converting, mobile-first websites built with modern frameworks. Fast, accessible, and designed to impress.",
+        "stat": "99.9%",
+        "statLabel": "Uptime"
+      },
+      {
+        "title": "Local SEO",
+        "description": "Rank higher in local search results. We optimize your content, structure, and authority for maximum visibility.",
+        "stat": "Top 3",
+        "statLabel": "Local Rankings"
+      },
+      {
+        "title": "GEO — AI Search Visibility",
+        "description": "Get recommended by ChatGPT, Perplexity, Google AI Overviews, and Claude. The future of search is generative — we make sure you're in the answer.",
+        "stat": "1st",
+        "statLabel": "AI Recommendations"
+      },
+      {
+        "title": "AI Automation",
+        "description": "Intelligent call bots, SMS bots, and WhatsApp automation that handle inquiries, book appointments, and follow up — 24/7.",
+        "stat": "93%",
+        "statLabel": "Calls Answered"
+      },
+      {
+        "title": "Google My Business",
+        "description": "Complete setup and optimization of your Google Business Profile, Maps presence, and review strategy.",
+        "stat": "5★",
+        "statLabel": "Average Rating"
+      },
+      {
+        "title": "Digital Partnership",
+        "description": "We don't build and disappear. Ongoing optimization, support, and strategy — your growth is our growth.",
+        "stat": "∞",
+        "statLabel": "Ongoing Support"
+      }
+    ]
+  },
+  "caseStudy": {
+    "label": "Proven Results",
+    "headline": "Real impact for real businesses.",
+    "description": "We measure success in revenue, not vanity metrics. Here's what our partners have achieved.",
+    "stats": [
+      {
+        "value": "124%",
+        "label": "Traffic Increase"
+      },
+      {
+        "value": "3.2k",
+        "label": "Monthly Interactions"
+      },
+      {
+        "value": "420+",
+        "label": "Businesses Connected"
+      }
+    ],
+    "testimonial": {
+      "quote": "Coreframe didn't just build us a website — they built us a revenue engine. Our bookings tripled in three months.",
+      "author": "Sarah M.",
+      "role": "Restaurant Owner, Hamburg"
+    },
+    "cta": "See Our Work"
+  },
+  "howItWorks": {
+    "label": "The Blueprint Process",
+    "headline": "From foundation to skyline — in three steps.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Site Survey & Audit",
+        "description": "We analyze your current digital presence, competitors, and opportunities. You get a clear roadmap with priorities and timelines."
+      },
+      {
+        "number": "02",
+        "title": "Structural Build",
+        "description": "We design and develop your digital infrastructure — website, SEO, AI integrations, and automation systems."
+      },
+      {
+        "number": "03",
+        "title": "Skyline Launch & Growth",
+        "description": "We launch, optimize, and grow together. Ongoing monitoring, content updates, and strategic refinement."
+      }
+    ]
+  },
+  "faq": {
+    "headline": "Questions? We've got answers.",
+    "items": [
+      {
+        "question": "What does a professional website cost for a small business?",
+        "answer": "Our projects typically range from €2,500 to €8,000 depending on scope and complexity. Every project includes responsive design, SEO optimization, and a 30-day support period. We offer flexible payment plans for local businesses."
+      },
+      {
+        "question": "How long does it take to build a website?",
+        "answer": "Most projects launch within 4-6 weeks from kickoff. This includes strategy, design, development, content integration, and testing. Rush timelines are available for time-sensitive launches."
+      },
+      {
+        "question": "What is GEO and why does my business need it?",
+        "answer": "GEO stands for Generative Engine Optimization. It's the practice of making your business visible to AI systems like ChatGPT, Perplexity, Google AI Overviews, and Claude. As more customers use AI to find local services, GEO ensures your business appears in AI-generated recommendations and answers."
+      },
+      {
+        "question": "How do AI chatbots help my business?",
+        "answer": "Our AI bots handle customer inquiries via phone, SMS, and WhatsApp around the clock. They answer common questions, book appointments, and follow up on leads — ensuring you never miss a potential customer, even outside business hours."
+      },
+      {
+        "question": "Will my business show up on Google Maps?",
+        "answer": "Yes. We fully set up and optimize your Google Business Profile, including photos, descriptions, categories, and review management. Most of our clients see significant improvements in Maps visibility within 4-8 weeks."
+      },
+      {
+        "question": "Do you offer ongoing support after launch?",
+        "answer": "Absolutely. We're a partner, not a vendor. Our ongoing packages include performance monitoring, content updates, SEO refinement, and strategic consultations. Your growth is our growth — we don't build and disappear."
+      }
+    ]
+  },
+  "cta": {
+    "label": "Ready to Build?",
+    "headline": "Let's light up your corner of the city.",
+    "subtext": "Book a free 30-minute strategy call. No pitch, no pressure — just a clear plan for your digital growth.",
+    "button": "Free 30-Minute Call",
+    "calendar": {
+      "title": "Book an Appointment",
+      "days": ["MO", "TU", "WE", "TH", "FR", "SA", "SU"],
+      "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+      "selectTime": "Select a time",
+      "slots": ["09:00", "10:00", "11:00", "14:00", "15:00", "16:00"],
+      "confirm": "Confirm Booking",
+      "confirmed": "Booking Confirmed!",
+      "confirmedSub": "We'll send you a confirmation email shortly.",
+      "back": "Back"
+    }
+  },
+  "footer": {
+    "tagline": "Your digital partner for local dominance.",
+    "explore": "Explore",
+    "legal": "Legal",
+    "newsletter": {
+      "headline": "Stay in the loop",
+      "placeholder": "Your email address",
+      "button": "Subscribe"
+    },
+    "links": {
+      "services": "Services",
+      "howItWorks": "How it Works",
+      "about": "About",
+      "caseStudies": "Case Studies",
+      "faq": "FAQ"
+    },
+    "legalLinks": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "imprint": "Imprint"
+    },
+    "copyright": "© {year} Coreframe.one. All rights reserved."
+  }
+}
